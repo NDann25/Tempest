@@ -16,7 +16,7 @@ Launch Page:
 
 Entry Page (allows user to enter daily weather data): 
 
-<img width="896" height="441" alt="Screenshot 2025-12-11 at 2 13 15 PM" src="https://github.com/user-attachments/assets/8e7cd872-bea6-4176-be45-6f250c445e82" />
+<img width="943" height="414" alt="Screenshot 2025-12-11 at 4 11 05 PM" src="https://github.com/user-attachments/assets/2402c4dd-19de-4b89-a2c7-f051562656b2" />
 
 
 Analytics Page (allows user to define parameters for analysis): 
